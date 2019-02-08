@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="com.example.boshra.mysql.MainActivity">
+
+    <ImageView
+
+        android:layout_width="match_parent"
+
+        android:layout_height="40dp"
+android:paddingLeft="72dp"
+android:src="@drawable/c"
+        android:paddingRight="78dp"
+        android:background="#6bf8ff"
+
+     />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:textSize="30dp"
+        android:id="@+id/name"
+        android:background="#e1f7ff"
+        android:textColor="@android:color/black"
+        android:textStyle="italic"
+
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:hint="Age"
+        android:textSize="30dp"
+        android:background="#e1f7ff"
+        android:textColorHighlight="@android:color/holo_red_light"
+        android:textColor="@android:color/black"
+        android:textStyle="italic"
+        android:id="@+id/age"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1.28dp"
+        android:background="@android:color/black"
+        ></View>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:gravity="center|bottom"
+        android:background="#c5ecf9"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1.28dp"
+            android:background="@android:color/black"
+            ></View>
+
+        <Button
+
+            android:id="@+id/register"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#c5ecf9"
+            android:gravity="center"
+            android:text="Register ❱❱"
+            android:textAllCaps="false"
+            android:textColor="@android:color/black"
+            android:textSize="19dp"
+
+            android:typeface="serif" />
+        <Button
+
+            android:id="@+id/Sc"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#c5ecf9"
+            android:gravity="center"
+            android:text="Save Changes >]"
+            android:textAllCaps="false"
+            android:textColor="@android:color/black"
+            android:textSize="19dp"
+
+            android:typeface="serif" />
+        <Button
+
+            android:id="@+id/del"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#c5ecf9"
+            android:gravity="center"
+            android:text="Delete record"
+            android:textAllCaps="false"
+            android:textColor="@android:color/black"
+            android:textSize="19dp"
+
+            android:typeface="serif" />
+        <Button
+
+        android:id="@+id/login"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="#c5ecf9"
+        android:gravity="center"
+        android:text="LogIn ❱❱"
+        android:textAllCaps="false"
+        android:textColor="@android:color/black"
+        android:textSize="19dp"
+
+        android:typeface="serif" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
