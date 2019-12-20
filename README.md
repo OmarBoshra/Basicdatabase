@@ -1,6 +1,7 @@
 # Simple online database transaction for entering name and age :-
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/47230931/71229593-d0458800-22ee-11ea-9a3c-4d71fcd11df4.gif)
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 # Steps to setup host :-
 
@@ -23,11 +24,6 @@
 
 [![Change ip address][10]][10]
 
-
-  [1]: https://i.stack.imgur.com/OsSnF.png
-  [2]: https://i.stack.imgur.com/OJPo6.png
-  [3]: https://i.stack.imgur.com/pQjGa.png
-  [4]: https://i.stack.imgur.com/HrqS7.png
   [5]: https://i.stack.imgur.com/Iip2C.png
   [6]: https://i.stack.imgur.com/mVEk3.png
   [7]: https://i.stack.imgur.com/S5MH4.png
