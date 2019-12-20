@@ -9,7 +9,7 @@ $sql_query="delete from names where name like '$user_name' and age like'$user_ag
 
 if(mysqli_query($connect,$sql_query)){
 
-echo "delete sucess";
+echo "delete success";
 }else{
 echo "unsucessful delete";
 }
