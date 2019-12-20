@@ -1,12 +1,6 @@
 # Simple online database transaction for entering name and age :-
 
-[![enter image description here][1]][1]
-
-[![enter image description here][2]][2]
-
-[![enter image description here][3]][3]
-
-[![enter image description here][4]][4]
+![ezgif com-optimize](https://user-images.githubusercontent.com/47230931/71229593-d0458800-22ee-11ea-9a3c-4d71fcd11df4.gif)
 
 # Steps to setup host :-
 
