@@ -1,6 +1,6 @@
 # Simple online database transaction for entering name and age :-
 
-<img src="https://user-images.githubusercontent.com/47230931/71229593-d0458800-22ee-11ea-9a3c-4d71fcd11df4.gif" width="220" height="420" />
+<img src="https://user-images.githubusercontent.com/47230931/71229593-d0458800-22ee-11ea-9a3c-4d71fcd11df4.gif" width="270" height="420" />
 
 # Steps to setup host :-
 
